@@ -13,7 +13,7 @@ A modern and responsive web application built using HTML, CSS, and JavaScript.
 🌐 Live Demo
 Add your Vercel URL here after deployment.
 
-Example:html9.vercel.app
+Example: delight-bbj6rl7m1-html9.vercel.app
 
 ## 🛠️ Technologies Used
 
