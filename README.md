@@ -8,6 +8,10 @@ A modern and responsive web application built using HTML, CSS, and JavaScript.
 - Modern user interface
 - Interactive elements
 - Fast and lightweight
+🌐 Live Demo
+Add your Vercel URL here after deployment.
+
+Example: delight-h7ryugf4w-html9.vercel.app
 
 ## 🛠️ Technologies Used
 
